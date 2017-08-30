@@ -8,3 +8,4 @@ bug change 1
 bug change 2 
 
 newchange 1
+newchange2
